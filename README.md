@@ -1,1 +1,2 @@
-# anime_project
+# anime_project 
+The description and cleaning of data looking at the dataset...
